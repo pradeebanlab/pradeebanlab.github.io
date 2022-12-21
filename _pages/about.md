@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome
 ======
-Hi! I am a Postdoctoral Researcher at Emory University. I have an EU Erasmus Mundus Joint Doctorate in Distributed Computing (EMJD-DC) from INESC-ID Lisboa / Instituto Superior Técnico, Universidade de Lisboa, Portugal and Université catholique de Louvain, Belgium. My Ph.D. thesis was on Software-Defined Systems for network-aware service composition and workflow placement.
+Hi! I am a Postdoctoral Researcher at Emory University. I have an EU Erasmus Mundus Joint Doctorate in Distributed Computing (EMJD-DC) from INESC-ID Lisboa / Instituto Superior Técnico, Universidade de Lisboa, Portugal and Université catholique de Louvain, Belgium.
 
 My research interests include Distributed Computing, Software-Defined Systems, Service-Oriented Architecture, Radiology, and Big data integration.
 
