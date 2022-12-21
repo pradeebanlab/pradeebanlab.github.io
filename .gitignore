@@ -1,2 +1,5 @@
-_site/
-
+**/target/
+**/.idea/
+**/.DS_Store/
+**/__pycache__/
+.idea/
