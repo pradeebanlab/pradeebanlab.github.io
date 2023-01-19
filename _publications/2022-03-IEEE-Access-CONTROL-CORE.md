@@ -6,7 +6,7 @@ excerpt: 'This paper presents the [CONTROL-CORE](https://github.com/ControlCore-
 date: 2022-03-01
 venue: 'IEEE Access'
 paperurl: 'https://doi.org/10.1109/ACCESS.2022.3161471'
-citation: '**Kathiravelu, P.**, Arnold, M., Fleischer, J., Yao, Y., Awasthi, S., Goel, A. K., Branen, A., Sarikhani, P., Kumar, G., Kothare, M. V., and Mahmoudi, B. CONTROL-CORE: A Framework for Simulation and Design of Closed-Loop Peripheral Neuromodulation Control Systems. In IEEE Access. (IF: 3.745, Q1). 10, 36268-36285. March 2022.'
+citation: '<b>Kathiravelu, P.</b>, Arnold, M., Fleischer, J., Yao, Y., Awasthi, S., Goel, A. K., Branen, A., Sarikhani, P., Kumar, G., Kothare, M. V., and Mahmoudi, B. <b>CONTROL-CORE: A Framework for Simulation and Design of Closed-Loop Peripheral Neuromodulation Control Systems.</b> In IEEE Access. (IF: 3.745, Q1). 10, 36268-36285. March 2022.'
 ---
 
 [Download paper here](https://doi.org/10.1109/ACCESS.2022.3161471)
