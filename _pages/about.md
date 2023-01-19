@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Postdoctoral Researcher at Emory University. I have an EU Erasmus Mundus Joint Doctorate in Distributed Computing (EMJD-DC) from INESC-ID Lisboa / Instituto Superior Técnico, Universidade de Lisboa, Portugal and Université catholique de Louvain, Belgium.
+Hi! I am a Postdoctoral Researcher at Emory University, Atlanta, GA, USA. I have an EU Erasmus Mundus Joint Doctorate in Distributed Computing (EMJD-DC) from INESC-ID Lisboa / Instituto Superior Técnico, Universidade de Lisboa, Portugal and Université catholique de Louvain, Belgium.
 
-My research interests include Distributed Computing, Software-Defined Systems, Service-Oriented Architecture, Radiology, and Big data integration.
+My research interests include Distributed Computing, Software-Defined Systems, Service-Oriented Architecture, Radiology, Telehealth, and Big data integration.
 
 News
 ======
