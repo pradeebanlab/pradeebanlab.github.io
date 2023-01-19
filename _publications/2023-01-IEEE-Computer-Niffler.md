@@ -1,7 +1,7 @@
 ---
 title: "Visualizing Scanner Utilization from MRI Metadata and Clinical Data"
 collection: publications
-permalink: /publication/2023-IEEE-Computer-Niffler
+permalink: /publication/2023-01-IEEE-Computer-Niffler
 excerpt: 'This paper visualizes the MRI scanner utilization using DICOM metadata retrieved via [Niffler](https://github.com/Emory-HITI/Niffler/), leveraging the dashboards developed with [Eaglescope](https://github.com/sharmalab/eaglescope).'
 date: 2023-01-01
 venue: 'IEEE Computer Magazine'
