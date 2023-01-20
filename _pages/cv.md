@@ -101,7 +101,7 @@ Services
 * Review Editor: Frontiers in High Performance Computing - High Performance Big Data Systems [2022].
 * Editorial Board Member: MDPI Electronics [2020 – 2023]. 
 * Reviewer Board Member: MDPI Future Internet [2020 – 2022] and MDPI Computers [2020 – 2022].
-* External Reviewer for several journals and conferences
+* External Reviewer for several journals and conferences.
 * Program representative, Erasmus Mundus Association [EMJD-DC – 2016 and 2017; EMDC – 2013, 2017, and 2018].
 
 Teaching
