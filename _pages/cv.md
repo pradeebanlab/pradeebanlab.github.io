@@ -36,12 +36,14 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+The full publications list can be found from [Google Scholar](https://scholar.google.com/citations?user=k1PYH8sAAAAJ&hl=en).
+
 Talks
 ======
   <ul>{% for post in site.talks %}
