@@ -21,3 +21,9 @@ Listed below are a few open-source projects that I built as a core researcher an
 * [Robin](https://github.com/pradeeban/robin)
 
 Your contributions are welcome to these projects.
+
+I also represent the Department of Biomedical Informatics, Emory University (Emory BMI), as the organization administrator and a mentor for the Google Summer of Code (GSoC). Please look at the project ideas to find a project that you like to work on during the summer.
+
+* [Emory BMI GSoC project ideas](https://github.com/NISYSLAB/Emory-BMI-GSoC/)
+
+More details on GSoC can be found in this [presentation](https://kkpradeeban.blogspot.com/2022/11/google-summer-of-code-gsoc-2023.html).
