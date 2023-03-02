@@ -1,5 +1,5 @@
 ---
-title: "The Telehealth Dilemma - Healthcare Deserts Meet Internet Remote Regions"
+title: "The Telehealth Dilemma - Healthcare Deserts Meet Internet&#39;s Remote Regions"
 collection: publications
 permalink: /publication/2023-03-IEEE-Computer-Sintra
 excerpt: 'Telehealth has increased healthcare and specialist access to patients in healthcare deserts, the regions with limited healthcare. Telehealth provides healthcare to patients remotely, connecting them from their homes or community clinics to healthcare practitioners in remote sites, typically through the Internet. Therefore, stable Internet access is a deciding factor for telehealth. We observe the internet latency&#39;s relation to healthcare deserts as preliminary work toward evaluating disparities in telehealth in practice.'
