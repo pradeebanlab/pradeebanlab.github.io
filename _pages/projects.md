@@ -8,15 +8,17 @@ redirect_from:
   - /projects.md
 ---
 
-I am open source enthusiast. I represent the Department of Biomedical Informatics, Emory University (Emory BMI), as the organization administrator and a mentor for the Google Summer of Code (GSoC). 
+I am open source enthusiast. I represent the Department of Biomedical Informatics, Emory University (Emory BMI), as the organization administrator and a mentor for the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/). 
 
 ## Google Summer of Code (GSoC)
 
-The presentation below provides an introduction to GSoC, a virtual open-source summer internship project funded by Google, where contributors work remotely with their favorite open-source organizations.
+The presentation below provides an introduction to GSoC, an annual open-source summer internship program funded by Google, where contributors work remotely with their favorite open-source organizations.
 
 <iframe src="../files/GSoC.pdf" width="100%" height="600px"></iframe>
 
-Please look at the [Project Ideas List](https://github.com/NISYSLAB/Emory-BMI-GSoC/) to find a project that you like to work on.
+Please look at the [Project Ideas List](https://github.com/NISYSLAB/Emory-BMI-GSoC/) to find an Emory BMI GSoC project that you like to work on.
+
+Please note the application deadline is usually around the first week of April each year. Please follow the [timeline](https://developers.google.com/open-source/gsoc/timeline) correctly and submit your project proposals on the GSoC site.
 
 
 ## Open-Source Projects
