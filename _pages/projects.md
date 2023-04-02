@@ -10,6 +10,17 @@ redirect_from:
 
 My research interests are where distributed computing and biomedical informatics meet. In recent years, I have researched and implemented distributed systems for various healthcare domains, such as radiology, telehealth, and neuroscience.
 
+## Google Summer of Code (GSoC)
+
+The presentation below provides an introduction to Google Summer of Code, a virtual open-source summer internship project funded by Google, where contributors work remotely with their favorite open-source organizations.
+
+<iframe src="../files/GSoC.pdf" width="100%" height="600px"></iframe>
+
+I represent the Department of Biomedical Informatics, Emory University (Emory BMI), as the organization administrator and a mentor for the GSoC. 
+
+Please look at the [Project Ideas List](https://github.com/NISYSLAB/Emory-BMI-GSoC/) to find a project that you like to work on.
+
+
 ## Open-Source Projects
 
 Listed below are a few open-source projects that I built as a core researcher and developer.
