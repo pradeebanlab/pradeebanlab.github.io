@@ -12,7 +12,7 @@ Hi! I am Pradeeban, a Postdoctoral Researcher and Senior Systems Software Engine
 
 I have an EU Erasmus Mundus Joint Doctorate in Distributed Computing (EMJD-DC) from INESC-ID Lisboa / Instituto Superior Técnico, Universidade de Lisboa, Portugal and Université catholique de Louvain, Belgium. My Ph.D. thesis was on Software-Defined Systems for network-aware service composition and workflow placement. I received my MSc degree, Erasmus Mundus European Master in Distributed Computing (EMDC), from Instituto Superior Técnico, Portugal, and KTH Royal Institute of Technology, Sweden.
 
-My research interests include distributed systems, network softwarization, telehealth, big data integration, Internet measurements, and Service-Oriented Architecture. I also have extensive experience working on open-source projects and mentoring a diverse range of students on programs such as Google Summer of Code (GSoC) since 2010.
+My research interests are where distributed computing and biomedical informatics meet. This includes network softwarization, telehealth, big data integration, Internet measurements, and Service-Oriented Architecture. In recent years, I have researched and implemented distributed systems for various healthcare domains, such as radiology and neuroscience. I also enjoy working on open-source projects and mentoring students on programs such as Google Summer of Code (GSoC).
 
 News
 ======
