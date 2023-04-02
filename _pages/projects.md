@@ -14,7 +14,7 @@ I am open source enthusiast. I represent the Department of Biomedical Informatic
 
 The presentation below provides an introduction to GSoC, an annual open-source summer internship program funded by Google, where contributors work remotely with their favorite open-source organizations.
 
-<iframe src="../files/GSoC.pdf" width="100%" height="550px"></iframe>
+<iframe src="../files/GSoC.pdf" width="100%" height="545px"></iframe>
 
 Please look at the [Project Ideas List](https://github.com/NISYSLAB/Emory-BMI-GSoC/) to find an Emory BMI GSoC project that you like to work on.
 
@@ -25,9 +25,7 @@ Please note the application deadline is usually around the first week of April e
 
 Listed below are a few open-source projects that I built as a core researcher and developer.
 
-* [Niffler](https://github.com/Emory-HITI/Niffler/)
-* [CONTROL-CORE](https://github.com/ControlCore-Project/)
-* [Bindaas](https://github.com/sharmalab/bindaas)
-* [Robin](https://github.com/pradeeban/robin)
-
-Your contributions are welcome to these projects.
+* [Niffler](https://github.com/Emory-HITI/Niffler/): A DICOM retrieval processing framework
+* [CONTROL-CORE](https://github.com/ControlCore-Project/): Design and simulation framework for neuromodulation control systems.
+* [Bindaas](https://github.com/sharmalab/bindaas): A data access federation middleware framework.
+* [Robin](https://github.com/pradeeban/robin): An A/B Proxy
