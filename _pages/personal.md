@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I have blogged extensively about my life in my [blog](https://kkpradeeban.blogspot.com/). Some of them follow a theme as a series, as listed below.
+I have blogged extensively about my life in my [blog](https://kkpradeeban.blogspot.com/). Some of these blogposts follow a theme as a series.
 
 
 _Memories of_ series
