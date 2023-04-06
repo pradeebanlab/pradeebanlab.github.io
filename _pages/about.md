@@ -17,4 +17,7 @@ My research interests are where distributed computing and biomedical informatics
 News
 ======
 
-Please come again for news updates.
+I am joining University of Alaska Anchorage, College of Engineering as a Tenure-Track Assistant Professor this Fall. 
+My research will explore networking innovations for healthcare, specifically telehealth in #Alaska.
+
+I will be a part of an excellent team of faculty in Anchorage. I am excited. Look forward to more updates from me during this new chapter of my life.
