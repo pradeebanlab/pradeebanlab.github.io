@@ -15,5 +15,8 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "UAA"
+    url: /uaa/
+
   - title: "Personal"
     url: /personal/
