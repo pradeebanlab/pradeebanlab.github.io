@@ -3,7 +3,7 @@ permalink: /foss/
 title: "FOSS"
 author_profile: true
 redirect_from: 
-  - /md/
+  - /projects/
   - /foss.html
   - /foss.md
 ---
